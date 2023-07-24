@@ -1,0 +1,26 @@
+// Global Style
+@import "./base";
+
+// Components style
+@import "./components/buttom";
+@import "./components/footer";
+@import "./components//header";
+
+// Pages style 
+@import "./pages/home";
+@import "./pages/about";
+@import "./pages/projects";
+@import "./pages/services";
+@import "./pages/blog";
+@import "./pages/contact";
+
+//  Sections style 
+@import "./pages/sections/homeHero";
+@import "./pages/sections/homeProjects";
+@import "./pages/sections/homeServices";
+@import "./pages/sections/homeVolunteer";
+@import "./pages/sections/homeTestimonial";
+@import "./pages/sections/homeTechnical";
+@import "./pages/sections/homeBlog";
+@import "./pages/sections/homeMeet";
+@import "./pages/sections/homeNewsletter";
